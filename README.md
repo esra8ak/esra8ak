@@ -1,7 +1,6 @@
-<h1 align="center">Hi there, I am Esra ࣪ ִֶָ☾.</h1>
+<h2 align="center">Hi there, I am Esra ࣪ ִֶָ☾.</h2>
 <h3 align="center">I am a security professional focused on Blue Team operations, proactive threat detection, and incident response.</h3>
 <h3 align="center">Currently, I manage 24/7 monitoring and security optimization for large-scale critical infrastructures.</h3>
-<h3 align="center">I am a security professional focused on Blue Team operations, proactive threat detection, and incident response.</h3>
 <h3 align="center">Beyond standard security operations, I have a deep interest in low-level system internals, malware analysis, and vulnerability research.</h3>
 <h3 align="center">I enjoy diving into the depths of C, Assembly, and Kernel-level mechanisms to understand how threats operate at the architectural level.</h3>
 
